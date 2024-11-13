@@ -1,4 +1,4 @@
-# Showz-pryecto
+# Showz-proyecto
 
 # Introducción
 
